@@ -1,0 +1,6 @@
+.vs/
+*.user
+Logistics.Services.Unleashed/bin/
+Logistics.Services.Unleashed/obj/
+Logistics.Tests/bin/
+Logistics.Tests/obj/
